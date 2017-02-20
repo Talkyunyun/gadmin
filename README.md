@@ -1,0 +1,2 @@
+# gadmin
+Laravel's admin.
